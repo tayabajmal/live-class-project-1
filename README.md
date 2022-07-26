@@ -7,6 +7,8 @@ Task at hand : Based on the given Figma file in .jpg format, recreate the websit
 
 Time spent to complete this project : 2 days.
 
+As this website is not responsive yet, it may show up differently on different screensizes. I have therefore taken a screenshot of how the final result looked like when I finished the project. The screenshot can be seen under the assets folder and named "Final_result_tayabajmal.jpg". 
+
 ## Learning
 ---
 
