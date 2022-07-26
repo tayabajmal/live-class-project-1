@@ -10,7 +10,7 @@ Time spent to complete this project : 2 days.
 ## Learning
 ---
 
-I learnt a lot about how to position HTML elements on a webpage and how to use techniques like flexbox and positioning. Flexbox was not even covered yet in the syllabus at this point in time, but I used tutorials online to get my head around it. By using flexbox, you really appreciate the work of those who have created it. So much more easier to use flexbox than other more traditonal techniques. However, traditional techniques like float and positioning properties are important to know in order to have a strong fundamental grasp of how things work.
+I learnt a lot about how to position HTML elements on a webpage and how to use techniques like flexbox and positioning. Flexbox was not even covered yet in the syllabus at this point in time, but I used tutorials online to get my head around it. By using flexbox, you really appreciate the work of those who have created it. So much more easier to use flexbox than other more traditonal techniques. However, traditional techniques like float and positioning properties are important to know in order to have a strong fundamental grasp of how things work. Another techique I learnt is how we apply the z-index property to place element on top of the other, like I did by placing the grid behind the hero picture and then doing some adjustments so that parts of the grid would show. 
 
 I also learnt about installing git on my local machine and then connect my project to Github. An appropriate flow of working with git locally and github centrally was not adopted in this project, as it was introduced a bit later in the course, in week 2. 
 
