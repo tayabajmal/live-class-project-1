@@ -20,7 +20,7 @@ I am very happy and proud that I managed to complete this project without asking
 
 ## Link to live project
 ---
-![Live link-live-class-project-01](https://62e43ee86987524009e6fc7d--gentle-vacherin-63e47c.netlify.app/)
+[Live link-live-class-project-01](https://62e43ee86987524009e6fc7d--gentle-vacherin-63e47c.netlify.app/)
 
 ## Improvements
 ---
