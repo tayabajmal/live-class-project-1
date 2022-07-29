@@ -18,6 +18,10 @@ I also learnt about installing git on my local machine and then connect my proje
 
 I am very happy and proud that I managed to complete this project without asking for help from our mentors (doubt support). It was tough to sit there and not know how to get around it, but the feeling was great when you managed to get the navigation bar correct after working on it for 5 hours. Yes, I spent 5 hours just on the navigation bar. 
 
+## Link to live project
+---
+![Live link-live-class-project-01](https://62e43ee86987524009e6fc7d--gentle-vacherin-63e47c.netlify.app/)
+
 ## Improvements
 ---
 Several improvements could be done to this project, like making the website responsive using media queries for instance. At the time of completing the project, responsive webdesign had not been covered. Also, the text below the heading could have been wrapped at a smaller width. Instaead it is going too wide. Positining of the star and the globe could improve and come even more closer to the original figma file named thumbnail.png or 1.png. A second star is present in the figma file, that could have been added, but we were told not to touch the HTML code, just do the CSS. 
