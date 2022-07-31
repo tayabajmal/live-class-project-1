@@ -26,5 +26,5 @@ I am very happy and proud that I managed to complete this project without asking
 ---
 Several improvements could be done to this project, like making the website responsive using media queries for instance. At the time of completing the project, responsive webdesign had not been covered. Also, the text below the heading could have been wrapped at a smaller width. Instaead it is going too wide. Positining of the star and the globe could improve and come even more closer to the original figma file named thumbnail.png or 1.png. A second star is present in the figma file, that could have been added, but we were told not to touch the HTML code, just do the CSS. 
 
-[live-class-project-1](https://img.shields.io/badge/JS%20Bootcamp-live--class--project--1-red)
+![live-class-project-1](https://img.shields.io/badge/JS%20Bootcamp-live--class--project--1-red)
 
